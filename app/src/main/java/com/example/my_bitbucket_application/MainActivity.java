@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //added a large file of 113Mb
+        //added a second large file of 113Mb
     }
 }
